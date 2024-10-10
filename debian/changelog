@@ -1,5 +1,12 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-mxk-go-flowrate (0.0~git20140419.0.cca7078-1.1) unstable; urgency=medium
 
-  * Initial release
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Holger Levsen <holger@debian.org>  Sat, 09 Jan 2021 13:38:03 +0100
+
+golang-github-mxk-go-flowrate (0.0~git20140419.0.cca7078-1) unstable; urgency=medium
+
+  * Initial release (Closes: #804206)
+
+ -- Tim Potter <tpot@hpe.com>  Fri, 06 Nov 2015 16:08:51 +1100
